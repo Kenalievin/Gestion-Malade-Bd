@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\bin\Debug\GestionMalade.exe.config
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\bin\Debug\GestionMalade.exe
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\bin\Debug\GestionMalade.pdb
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.Form1.resources
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.exe
+C:\Users\Lenovo\Desktop\EXAMEN\GestionMalade\GestionMalade\obj\Debug\GestionMalade.pdb
